@@ -1,0 +1,22 @@
+body {
+background: rgb(34, 36, 63);
+}
+h1{
+    font-size: 100px;
+    color: rgb(211, 193, 210);
+    text-align: center;
+}
+p{
+    font-size: 65px;
+    color: hwb(303 62% 21%);
+    text-align: center;
+}
+img{
+
+
+    width: 315px;
+    height: 400px;
+    margin: 90px;
+    margin-left: 190px;
+
+}
