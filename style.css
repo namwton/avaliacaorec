@@ -8,7 +8,7 @@ h1{
 }
 p{
     font-size: 65px;
-    color: hwb(303 62% 21%);
+    color: hsl(303, 28%, 70%);
     text-align: center;
 }
 img{
@@ -20,3 +20,36 @@ img{
     margin-left: 190px;
 
 }
+.confeitaria{
+background-color: rgb(211, 193, 210);
+display: flex;
+
+}
+.logoimg{
+
+    width: 250px;
+    height: 250px;
+}
+.listaconfeitaria{
+display: flex;
+margin-left: 15px;
+margin-top: 200px;
+
+}
+.listaconfeitaria{
+list-style: inside;
+text-transform: uppercase;
+font-size: 35px;
+color: rgb(34, 36, 63);
+padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
