@@ -11,15 +11,7 @@ p{
     color: hsl(303, 28%, 70%);
     text-align: center;
 }
-img{
 
-
-    width: 315px;
-    height: 400px;
-    margin: 90px;LANI'S BAK
-    margin-left: 190px;
-
-}
 .confeitaria{
 background-color: rgb(211, 193, 210);
 display: flex;
@@ -46,7 +38,7 @@ padding-left: 30px;
 .img{ 
     width: 500px;
     height: 400px;
-    
+    margin-left: 300px;
 }
 
 
